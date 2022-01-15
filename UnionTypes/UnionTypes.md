@@ -1,8 +1,10 @@
-### Le type "union"
+## Le type "union"
+
+> Le **type union** permet de dire que notre variable (sortie de fonction, etc.) pourra **être d'un type ou d'un autre**, selon la définition que nous lui avons donné, et qu'elle ne sera **pas limité à un seul type**.
 
 ---
 
-Avant de commencez, imaginons une fonction qui combine deux valeurs entre elles et nous retourne le résultat.
+Imaginons une fonction qui combine deux valeurs entre elles et nous retourne le résultat.
 
 ```ts
 function combine1(a: number, b: number) {
