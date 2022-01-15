@@ -15,8 +15,8 @@ function combine1(a: number, b: number) {
 Appelons notre fonction et voyons ce qu'elle nous donne.
 
 ```ts
-const numComb = combine1(2, 2);
-console.log(numbComb); // Affiche: 4
+const nbComb = combine1(2, 2);
+console.log(nbComb); // Affiche: 4
 ```
 
 Pas de surprise, **2 + 2 = 4**.
