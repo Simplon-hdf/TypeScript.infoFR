@@ -1,0 +1,17 @@
+{
+	"name": "typescript.infofr",
+	"version": "0.0.1",
+	"description": "The TypeScript documentation in French.",
+	"main": "index.js",
+	"scripts": {
+		"sass": "sass --watch style.scss style.css",
+		"tsc": "tsc --watch",
+		"test": "c8 mocha"
+	},
+	"dependencies": {
+		"chai": "^4.3.4",
+		"mocha": "^9.1.4",
+		"sass": "^1.48.0",
+		"tsc": "^2.0.3"
+	}
+}
